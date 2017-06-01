@@ -174,8 +174,6 @@ defineRotary("CLK_RIGHT_LVR_ROT", 7, 3005, 26, "Flight Status/Navigation Panel",
 -- -- elements["pnt_232"]        = default_axis_limited(_("RSI-6K Wave Control Handle"), devices.RSI_6K, RSI_6K_commands.Mig15_Command_RSI6K_SetTransmitterFrequency, 232, 0.8, 0.03, true, false, {0.0, 1.0})
 -- -- elements["pnt_230"]        = default_axis_limited(_("RSI-6K Antenna Control Handle"), devices.RSI_6K, RSI_6K_commands.Mig15_Command_RSI6K_SetAntennaFrequency, 230, 0.8, 0.03, true, false, {0.0, 1.0})
 
-------------- buttons not in Mega !!!!!!!!!
---------------------------------------------
 
 
 
