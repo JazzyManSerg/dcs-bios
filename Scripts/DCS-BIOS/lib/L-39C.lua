@@ -31,7 +31,9 @@ dofile(lfs.currentdir().."Mods/aircraft/L-39C/Cockpit/devices.lua")
 dofile(lfs.currentdir().."Mods/aircraft/L-39C/Cockpit/command_defs.lua")
 
 --Clickable Controls
--- electric system
+---- Kadda gave it to me
+  
+  -- electric system
 -- defineToggleSwitch("BatterySw",  4,3001, 141,"electric system", "Accumulator Switch, ON/OFF")
 -- defineToggleSwitch("MainGeneratorSw",  4,3002, 142,"electric system", "Main Generator Switch, ON/OFF")
 -- defineToggleSwitch("EmergGeneratorSw",  4,3003, 143,"electric system", "EmergGeneratorSw")
